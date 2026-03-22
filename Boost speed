@@ -1,0 +1,25 @@
+Universial
+1. Open Settings
+2. Search for Buildnummer
+3. Click multiple times on the build nummer, until a message for Developer Options being activated, is shown
+4. Exit back to the regular Settings screen
+5. Search for Developer Options
+6. Look for animations and change to preference (best is 0.5x)
+7. Open Limit for Background processes and select a preference
+
+Samsung
+1. Open Settings
+2. Search for RAM Plus
+3. Scroll down and select RAM Plus
+4. If you have enough storage, press the highest possible option
+
+Xiaomi
+1. Open Settings
+2. Search for Memory extension
+3. If you have enough storage, press the highest possible option
+
+Xiaomi:
+1. Open Settings
+2. Search for Performance Mode
+3. Press current mode
+4. If Battery life isn't a problem, select Performance Mode
